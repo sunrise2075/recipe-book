@@ -17,6 +17,15 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
+## Deploy on github pages
+
+User command:  **ng github-pages:deploy**
+
+Deployed! Visit https://sunrise2075.github.io//recipe-book//
+Github pages might take a few minutes to show the deployed site.
+
+
+
 ## Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
