@@ -21,9 +21,13 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 User command:  **ng github-pages:deploy**
 
-Deployed! Visit https://sunrise2075.github.io//recipe-book//
-Github pages might take a few minutes to show the deployed site.
+## Push new branch to github
 
+1. git checkout gh-pages
+
+2. git push -u origin gh-pages
+
+## Choose giuhub-pages source in repository detail page
 
 
 ## Running end-to-end tests
