@@ -25,7 +25,7 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 3. git push -u origin gh-pages
 
-4. Choose giuhub-pages source in repository setting page
+4. Choose github-pages source in repository setting page
 
 
 ## Running end-to-end tests
