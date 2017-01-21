@@ -19,15 +19,13 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 ## Deploy on github pages
 
-User command:  **ng github-pages:deploy**
+1. Use command:  **ng github-pages:deploy**
 
-## Push new branch to github
+2. git checkout gh-pages
 
-1. git checkout gh-pages
+3. git push -u origin gh-pages
 
-2. git push -u origin gh-pages
-
-## Choose giuhub-pages source in repository detail page
+4. Choose giuhub-pages source in repository setting page
 
 
 ## Running end-to-end tests
